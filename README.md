@@ -7,7 +7,7 @@ This project is intended to be an example solution of how you can create git hoo
 
 ## Examples
 
-Git hooks can help with mane things.  Some common ones are:
+Git hooks can help with many things.  Some common ones are:
 1. Run code through a formatter (or at least check it against a format)
 2. Build the code before it committed / pushed (to prevent broken builds!)
 3. Send alerts / updates about new commits
@@ -22,7 +22,7 @@ To use this project, clone or download the source, and use the snippet provided 
 
 ## Contributors
 
-Contributions, whether it is code snippets, additional git hook ideas, snippets, etc.
+Contributions, whether it is code snippets, additional git hook ideas, comments, questions, etc. are welcomed and encouraged!
 
 # Rules for Contributions
 
@@ -31,4 +31,4 @@ Contributions, whether it is code snippets, additional git hook ideas, snippets,
 
 ## License
 
-This Repo uses the MIT Licencse.  See [LICENSE](LICENSE) for details
+This Repository is licensed under the MIT Licencse.  See [LICENSE](LICENSE) for details
