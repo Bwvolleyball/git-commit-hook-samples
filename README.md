@@ -24,7 +24,7 @@ To use this project, clone or download the source, and use the snippet provided 
 
 Contributions, whether it is code snippets, additional git hook ideas, comments, questions, etc. are welcomed and encouraged!
 
-# Rules for Contributions
+### Rules for Contributions
 
 1. All code contributions must be properly documented with in-line comments. Explain what you have done as if it's brand new to the person you are showing it to.
 2. Use the included formatter to format all code. // TODO: unimplemented, but will be soon
