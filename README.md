@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Bwvolleyball/git-commit-hook-samples.svg?branch=master)](https://travis-ci.org/Bwvolleyball/git-commit-hook-samples)
+[![Build Status](https://travis-ci.org/Bwvolleyball/git-hook-samples.svg?branch=master)](https://travis-ci.org/Bwvolleyball/git-hook-samples)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/eaae3ef90bd84c42a279bde08b230dae)](https://www.codacy.com/app/ward486/git-hook-samples?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bwvolleyball/git-hook-samples&amp;utm_campaign=Badge_Grade)
 
 ## Synopsis
