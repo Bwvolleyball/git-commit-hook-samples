@@ -27,7 +27,8 @@ Contributions, whether it is code snippets, additional git hook ideas, comments,
 ### Rules for Contributions
 
 1. All code contributions must be properly documented with in-line comments. Explain what you have done as if it's brand new to the person you are showing it to.
-2. Use the included formatter to format all code. // TODO: unimplemented, but will be soon
+2. Use the included formatter to format all code.
+	This project uses the [google-java-format](https://github.com/google/google-java-format), and [provides a gradle plugin to enforce the format](https://github.com/sherter/google-java-format-gradle-plugin).  Formatting can be done either from an IDE, the google-java-format jar itself, or via the provided gradle plugin (./gradlew goJF)
 
 ## License
 
